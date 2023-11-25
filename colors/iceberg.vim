@@ -158,7 +158,7 @@ else
   hi Normal ctermbg=234 ctermfg=252 guibg=#161821 guifg=#c6c8d1
   hi ColorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
   hi CursorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
-  hi CursorLine cterm=NONE ctermbg=235 ctermfg=NONE guibg=#2a3158 guifg=NONE
+  hi CursorLine cterm=NONE ctermbg=135 ctermfg=NONE guibg=#2a3158 guifg=NONE
   hi Comment ctermfg=242 guifg=#6b7089
   hi Conceal ctermbg=234 ctermfg=242 guibg=#161821 guifg=#6b7089
   hi Constant ctermfg=140 guifg=#a093c7
